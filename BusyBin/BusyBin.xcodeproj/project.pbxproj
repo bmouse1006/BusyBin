@@ -598,6 +598,8 @@
 		229194C1159D5D0C00F74BE2 /* BusyBin */ = {
 			isa = PBXGroup;
 			children = (
+				229196DE159D5DC400F74BE2 /* Sprite */,
+				229196DD159D5DB200F74BE2 /* SceneAndLayer */,
 				229196CA159D5D0F00F74BE2 /* AppDelegate.h */,
 				229196CB159D5D0F00F74BE2 /* AppDelegate.mm */,
 				229196CD159D5D0F00F74BE2 /* HelloWorldLayer.h */,
@@ -1132,6 +1134,20 @@
 				229196C8159D5D0F00F74BE2 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		229196DD159D5DB200F74BE2 /* SceneAndLayer */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = SceneAndLayer;
+			sourceTree = "<group>";
+		};
+		229196DE159D5DC400F74BE2 /* Sprite */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sprite;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
